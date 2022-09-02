@@ -59,3 +59,20 @@ Shell Permissions: This folder contains script with bash commands to create, man
 ## Name: 13-change-group
 
    This script changes the group owner to school for the file hello.
+
+## Name: 100-change_owner_and_group
+
+   This script changes the owner to vincent and group owner to staff for all files and directories.
+
+## Name: 101-symbolic_link_permissions
+
+   This script changes the owner and group owner of a symbolic link referenced file
+
+## Name: 102-if_only
+
+   This script changes the owner of the file if only it is owned by a specified user
+
+## Name: 103-Star_Wars
+
+   This script connects to telnet and plays the StarWars IV episode in the terminal.
+   
